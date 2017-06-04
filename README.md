@@ -9,9 +9,9 @@ BlogRR is a Ruby on Rails blog application.
 
 Submitted by: 
 
-Time spent: 24 hours spent in total
+Time spent: 30 hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: https://pacific-inlet-88159.herokuapp.com/
 
 ## User Stories
 
