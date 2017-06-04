@@ -11,7 +11,7 @@ Submitted by:
 
 Time spent: 30 hours spent in total
 
-URL: https://pacific-inlet-88159.herokuapp.com/
+URL: https://danhvo-ruby-blog.herokuapp.com/
 
 ## User Stories
 
