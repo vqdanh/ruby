@@ -1,13 +1,7 @@
-# Pre-work - *Name of App Here*
 
-> HINT: Please
-> - include this README.md in your project and fill out the information. 
-> - remove the `README.rdoc` file that Rails generates. 
-> - remove all the HINT blocks in this file.
+danhvo-ruby-blog is a Ruby on Rails blog application.
 
-BlogRR is a Ruby on Rails blog application.
-
-Submitted by: 
+Submitted by: vqdanh.khtn@gmail.com
 
 Time spent: 30 hours spent in total
 
@@ -57,7 +51,7 @@ Here's a walkthrough of implemented user stories:
 > `![Video Walkthrough](walkthrough.gif)` 
 > 
 
-![Video Walkthrough](/path/to/your/gif/file)
+![Video Walkthrough](demo_blog_ruby_project.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -67,7 +61,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Danh Vo Quang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
